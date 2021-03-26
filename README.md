@@ -23,4 +23,4 @@ mit .NET und Angular abschauen zu können.
 
 ![Fotos hochladen](/screenshots/datingapp_v11.png?raw=true "Fotos hochladen")
 
-![Nutzerübersicht](/screenshots/datingapp_v10_2.png?raw=true "Nutzerübersicht")
+![Nutzerübersicht](/screenshots/datingapp_v13.png?raw=true "Nutzerübersicht")
